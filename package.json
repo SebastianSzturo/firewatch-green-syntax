@@ -1,0 +1,17 @@
+{
+  "name": "firewatch-green-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A firewatch inspired green syntax theme",
+  "keywords": [
+    "dark",
+    "green",
+    "firewatch",
+    "syntax"
+  ],
+  "repository": "https://github.com/SebastianSzturo/firewatch-green-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
