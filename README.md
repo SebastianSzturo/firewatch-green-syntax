@@ -1,4 +1,4 @@
-## Firewatch Green Syntax Theme
+## [Firewatch Green Syntax Theme](https://atom.io/themes/firewatch-green-syntax)
 
 ![firewatch-syntax](http://i.imgur.com/gT8d5qN.png)
 
